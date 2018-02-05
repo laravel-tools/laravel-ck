@@ -1,0 +1,13 @@
+{
+    "name": "laravel-tools/laravel-ck",
+    "description": "A package for integrating CK Editor in PHP projects using composer.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Scott",
+            "email": "codetheorist@gmail.com"
+        }
+    ],
+    "require": {}
+}
